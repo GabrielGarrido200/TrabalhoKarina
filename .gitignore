@@ -1,0 +1,4 @@
+
+# Arquivos compilados do Java
+*.class
+bin/
